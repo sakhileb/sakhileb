@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://sakhilebhayi.com/logo.png" alt="Sakhile Bhayi" width="120" />
+<img src="https://sakhilebhayi.com/logo.png" alt="Sakhile Bhayi" width="200" />
 
 # Sakhile Bhayi
 
