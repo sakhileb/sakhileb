@@ -12,7 +12,7 @@
 
 ---
 
-## ⛏️ What I Build
+## What I Build
 
 **Fleet Intelligence Platforms** — Real-time orchestration of heavy assets through low-latency telemetry. Cycle efficiency, load performance, and utilisation tracked live, from pit to control room.
 
@@ -28,7 +28,7 @@
 
 </div>
 
-## 🚀 Portfolio
+## Portfolio
 
 ### InfoDot Ecosystem — *Digital productivity & intelligence tools*
 
@@ -47,7 +47,7 @@
 
 Founder of [BluPin Inc.](https://blupininc.com) — a portfolio spanning [Industrialized](https://industrial.blupininc.com) (digital implementation), [Capital](https://capital.blupininc.com) (trading & investments), [AI Institute](https://ai.blupininc.com) (AI capability for career changers), and [Hope](https://hope.blupininc.com) (community impact).
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -64,11 +64,11 @@ Founder of [BluPin Inc.](https://blupininc.com) — a portfolio spanning [Indust
 
 **AI Engineering:** LLMs · Claude API · RAG · MCP protocols · Subagents · Agent skills · AI workflow design
 
-## 🎓 Credentials
+## Credentials
 
 B.Tech in Information Technology (Eduvos) · Anthropic AI Fluency & Claude Certifications · AWS Solutions Architect modules · Modular Mining Minecare 3, Dispatch & Provision
 
-## 📫 Connect
+## Connect
 
 [![Website](https://img.shields.io/badge/Website-sakhilebhayi.com-1a1a2e?style=flat&logo=googlechrome&logoColor=white)](https://sakhilebhayi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakhilebayi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/sakhilebayi)
