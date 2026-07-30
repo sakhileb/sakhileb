@@ -11,10 +11,6 @@ I engineer intelligence systems that turn fragmented operational data into confi
 
 <p>
 
-<a href="https://sakhilebhayi.com">
-<img src="https://img.shields.io/badge/Website-sakhilebhayi.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sakhilebayi">
 <img src="https://img.shields.io/badge/LinkedIn-Sakhile_Bhayi-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -23,9 +19,11 @@ I engineer intelligence systems that turn fragmented operational data into confi
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
+<a href="https://sakhilebhayi.com">
 <img src="https://komarev.com/ghpvc/?username=sakhileb&style=for-the-badge&color=0e7490"/>
+</a>
+
+</p>
 
 </div>
 
@@ -186,7 +184,11 @@ B.Tech Information Technology • Anthropic Claude AI Certifications • Modular
 
 **Mining • AI • Enterprise Software • Digital Transformation**
 
-**[sakhilebhayi.com](https://sakhilebhayi.com)**
+<p>
+  <a href="https://sakhilebhayi.com">
+    <img src="https://img.shields.io/badge/Website-sakhilebhayi.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 *"When insight is clear, teams execute with confidence."*
 
