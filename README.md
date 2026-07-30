@@ -33,7 +33,7 @@ I engineer intelligence systems that turn fragmented operational data into confi
 
 ## About
 
-My career spans both the mine control room and modern software architecture. That dual fluency is the whole point: I don't build software *about* mining — I engineer the systems mining runs on, then architect the intelligence layer that learns from them.
+My career spans both mining applications and modern software architecture. That dual fluency is the whole point: I don't build software *about* mining — I engineer the systems mining runs on, then architect the intelligence layer that learns from them.
 
 The control room taught me what operational truth looks like. Software engineering taught me how to scale it. AI is how I multiply it.
 
