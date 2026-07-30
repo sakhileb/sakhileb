@@ -35,7 +35,7 @@ I engineer intelligence systems that turn fragmented operational data into confi
 
 My career spans both mining applications and modern software architecture. That dual fluency is the whole point: I don't build software *about* mining — I engineer the systems mining runs on, then architect the intelligence layer that learns from them.
 
-The mines I worked for me what operational truth looks like. Software engineering taught me how to scale it. AI is how I multiply it.
+The mines I worked for taught me what operational truth looks like. Software engineering taught me how to scale it. AI is how I multiply it.
 
 ---
 
