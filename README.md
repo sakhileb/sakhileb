@@ -41,7 +41,7 @@ The mines I worked for taught me what operational truth looks like. Software eng
 
 ## What I Engineer
 
-**Fleet & Control Systems** — Real-time fleet monitoring, dispatch, telemetry, payload and cycle analysis, downtime intelligence. Built on deep OEM integration: Modular Mining Dispatch, Minecare 3, Provision, AVA APIs.
+**Fleet & Control Systems** — Real-time fleet monitoring, dispatch, telemetry, payload and cycle analysis, downtime intelligence. Built on deep OEM integration: Modular Mining Dispatch, Minecare 3, Provision, AVA.
 
 **Executive Intelligence** — Production KPIs, shift and delay analysis, maintenance analytics, and performance scorecards designed for the people accountable for the numbers.
 
