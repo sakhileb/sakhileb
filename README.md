@@ -6,7 +6,6 @@
 
 ### Intelligence Architect • Mine Control Systems Engineer • Founder
 
-**Where Field Meets Digital**
 
 I engineer intelligence systems that turn fragmented operational data into confident business decisions — across mining fleets, enterprise analytics, and AI-native platforms.
 
