@@ -66,6 +66,17 @@ Founder of [BluPin Inc.](https://blupininc.com) — a portfolio spanning [Indust
 
 **AI Engineering:** LLMs · Claude API · RAG · MCP protocols · Subagents · Agent skills · AI workflow design
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+</div>
+
 ## 🎓 Credentials
 
 B.Tech in Information Technology (Eduvos) · Anthropic AI Fluency & Claude Certifications · AWS Solutions Architect modules · Modular Mining Minecare 3, Dispatch & Provision
@@ -73,6 +84,7 @@ B.Tech in Information Technology (Eduvos) · Anthropic AI Fluency & Claude Certi
 ## 📫 Connect
 
 [![Website](https://img.shields.io/badge/Website-sakhilebhayi.com-1a1a2e?style=flat&logo=googlechrome&logoColor=white)](https://sakhilebhayi.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakhilebayi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/sakhilebayi)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7055--0427-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7055-0427)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-SK_Digital-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3772858/sk-digital)
@@ -84,5 +96,7 @@ B.Tech in Information Technology (Eduvos) · Anthropic AI Fluency & Claude Certi
 <div align="center">
 
 *"When insight is clear, teams execute with confidence."*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1a1a2e&style=flat&label=Profile+views" alt="Profile views" />
 
 </div>
