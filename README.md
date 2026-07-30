@@ -163,12 +163,8 @@ A portfolio venture spanning industrial digital transformation, AI capability bu
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakhilebhayi&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilebhayi&layout=compact&theme=github_dark&hide_border=true"/>
-
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhilebhayi&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" /> 
 </div>
 
 ---
