@@ -71,8 +71,7 @@ Founder of [BluPin Inc.](https://blupininc.com) — a portfolio spanning [Indust
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sakhileb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhileb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhileb&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
