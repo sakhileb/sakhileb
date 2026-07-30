@@ -165,9 +165,9 @@ A portfolio venture spanning industrial digital transformation, AI capability bu
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakhileb&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakhilebhayi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhileb&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilebhayi&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
