@@ -84,57 +84,58 @@ A portfolio venture spanning industrial digital transformation, AI capability bu
 | Platform | Purpose |
 |-----------|----------|
 | **Dot.Brain** | Knowledge & Intelligence Layer — the ecosystem's reasoning core |
-| **Dot.Memory** | Persistent Ecosystem Memory |
-| **Dot.Agents** | Autonomous Agent Platform |
-| **Dot.Dopemine** | Ethical Engagement Engine |
+| **Dot.Memory** | Nothing the ecosystem learns is ever lost |
+| **Dot.Agents** | Delegates work to agents that act, verify, report |
+| **Dot.Dopemine** | Motivation mechanics designed to serve users, not exploit them |
 
 **Industry & Operations**
 
 | Platform | Purpose |
 |-----------|----------|
-| **Mines** | Mine & Fleet Intelligence Platform |
-| **Dot.Farms** | Agricultural Operations Intelligence |
-| **Dot.Analytics** | Enterprise Analytics |
-| **Dot.Charts** | Data Visualisation Engine |
-| **Dot.Pulse** | Real-Time Operational Monitoring |
+| **Dot.Mines** | The mine's single source of operational truth |
+| **Dot.Farms** | Field-to-decision intelligence for agriculture |
+| **Dot.Analytics** | Cross-platform BI & enterprise reporting |
+| **Dot.Charts** | Live forex market data & trading intelligence |
+| **Dot.Pulse** | The heartbeat of every running system — and the voice of what people are saying about the Dot Ecosystem |
 
 **Productivity Suite**
 
 | Platform | Purpose |
 |-----------|----------|
-| **Dot.Docs** | AI Document Creation |
-| **Dot.Sheet** | AI Spreadsheets |
-| **Dot.Press** | AI Presentations |
-| **Dot.Forms** | AI Forms |
-| **Dot.Files** | Intelligent File Management |
-| **Dot.Engage** | AI Email & Communications |
-| **Dot.Design** | AI Design Platform |
+| **Dot.Docs** | Documents that draft themselves around your intent |
+| **Dot.Sheet** | Spreadsheets that explain their own numbers |
+| **Dot.Press** | From idea to boardroom-ready deck |
+| **Dot.Forms** | Data capture that structures itself |
+| **Dot.Files** | Files that find you when you need them |
+| **Dot.Engage** | Every message on-brand, on-tone, on-time |
+| **Dot.Design** | Design output without the design bottleneck |
 
 **Business Operations**
 
 | Platform | Purpose |
 |-----------|----------|
-| **Dot.Projects** | Project Management |
-| **Dot.Tasks** | Task Orchestration |
-| **Dot.HR** | Human Resources Platform |
-| **Dot.Finance** | Financial Management |
-| **Dot.Billing** | Billing & Subscriptions |
-| **Dot.Notify** | Unified Notifications |
+| **Dot.Projects** | Keeps delivery visible from kickoff to close |
+| **Dot.Tasks** | Work that routes itself to the right hands |
+| **Dot.HR** | The people side of the business, systematised |
+| **Dot.Finance** | Financial clarity without the month-end scramble |
+| **Dot.Billing** | Revenue operations on autopilot |
+| **Dot.Notify** | One channel, every signal that matters |
 
 **Commerce & Services**
 
 | Platform | Purpose |
 |-----------|----------|
-| **Dot.Emall** | E-Commerce Platform |
-| **Dot.Ehail** | E-Hailing Platform |
-| **Dot.Auction** | Auction Platform |
+| **Dot.Emall** | Commerce infrastructure for local business |
+| **Dot.Ehail** | Mobility, dispatched intelligently |
+| **Dot.Auction** | Transparent price discovery, built in |
 
 **Platform & Developer**
 
 | Platform | Purpose |
 |-----------|----------|
-| **Dot.Central** | Ecosystem Control Hub |
-| **Dot.Plug** | Developer Extension Platform |
+| **Dot.Central** | AI agents that help control room operators command Dot.Mines |
+| **Dot.Plug** | Where developers extend the ecosystem |
+
 
 > Every platform learns. Every interaction improves the ecosystem. Every recommendation becomes measurable.
 
